@@ -1,6 +1,5 @@
 <?php
 require_once __DIR__ . '/vendor/autoload.php';
-
 class SaleReport extends \koolreport\KoolReport
 {
     protected function settings()
